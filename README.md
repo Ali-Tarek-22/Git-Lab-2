@@ -1,4 +1,3 @@
-# How to delete a branch?
 ## To delete a local branch:
 git branch -d branch_name
 
@@ -21,3 +20,6 @@ git push origin :tag_name
 
 ## To delete local tag:
 git tag -d tag_name
+
+# Image:
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/8646f213-0b95-4077-b48b-8d276869b842" />
